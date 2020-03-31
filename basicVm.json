@@ -5,13 +5,13 @@
         "adminUsername": {
             "type": "string",
             "metadata": {
-                "description": "Username for the Virtual Machine."
+                "description": "Username for VM."
             }
         },
         "adminPassword": {
             "type": "securestring",
             "metadata": {
-                "description": "Password for the Virtual Machine."
+                "description": "Password for VM."
             }
         },
         "dnsLabelPrefix": {
@@ -52,16 +52,16 @@
         },
         "departmentName": {
             "type": "string",
-            "defaultValue": "MyDepartment",
+            "defaultValue": "My Department Name ",
             "metadata": {
-                "description": "Department Tag"
+                "description": "My Department Tag"
             }
         },
         "applicationName": {
             "type": "string",
             "defaultValue": "MyApp",
             "metadata": {
-                "description": "Application Tag"
+                "description": "My Application Tag"
             }
         },
         "createdBy": {
