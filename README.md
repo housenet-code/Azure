@@ -12,4 +12,4 @@
 This template allows you to deploy a simple Windows VM using a few different options for the Windows version, using the latest patched version. This will include tags on the Virtual Machine, Storage Account, Public IP Address, Virtual Network, and Network Interface.
 
 
-https://github.com/housenet-code/Azure/blob/master/basicVm.json
+
